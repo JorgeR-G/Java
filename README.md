@@ -37,7 +37,7 @@ El numero mayor es:
 <numeroMayor>
 
 
--El objetivo del ejercicio SistemaCalificacion es crear un sistema de calificaciones, como sigue:
+- El objetivo del ejercicio SistemaCalificacion es crear un sistema de calificaciones, como sigue:
 
 El usuario proporcionará un valor entre 0 y 10.
 

@@ -57,3 +57,13 @@ Por ejemplo:
 
 Proporciona un valor entre 0 y 10:
 A
+
+Se solicita un proyecto llamado Caja con una clase llamada Caja con las siguientes caracteristicas:
+
+- Debe tener 3 atributos de tipo entero (ancho, alto y profundo)
+- Debe tener 2 constructores, uno vavio y uno con 3 argumentos, uno por cada atributo de la clase.
+- Debe de tener el método que calcule el volumen de la caja según la formula volumen:
+vol = ancho x alto x profundo. 
+- Crear una clase de prueba para crear un objeto de tipo caja que tenga como valores: ancho=3, alto=2, profundo=6 y que mande a imprimir el volumen de la caja según los valores proporcionados anteriormente
+
+

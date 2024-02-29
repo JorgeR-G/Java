@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ejercicio de TiendaDeLibros</b><</h1>
+<h1 align="center">Ejercicio de TiendaDeLibros<</h1>
 
 Nos pide un almacenamiento de libros de una tienda:
  Nombre

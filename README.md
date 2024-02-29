@@ -1,10 +1,14 @@
-- Ejercicio de TiendaDeLibros nos pide un almacenamiento de libros de una tienda:
+<h1 align="center">Ejercicio de TiendaDeLibros</h1>
+
+Nos pide un almacenamiento de libros de una tienda:
  Nombre
   Id
   Precio
   Envio Gratuito
 
- - Ejercicio de AreaPerimetro se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:
+<h2 align="center">Ejercicio de AreaPerimetro</h2>
+ 
+Se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:
 
 alto (int)
 
@@ -36,8 +40,9 @@ Proporciona el numero2:
 El numero mayor es:
 <numeroMayor>
 
+<h3 align="center">Ejercicio SistemaCalificacion</h3>
 
-- El objetivo del ejercicio SistemaCalificacion es crear un sistema de calificaciones, como sigue:
+Crear un sistema de calificaciones, como sigue:
 
 El usuario proporcionará un valor entre 0 y 10.
 
@@ -58,6 +63,7 @@ Por ejemplo:
 Proporciona un valor entre 0 y 10:
 A
 
+<h4 align="center">Ejercicio Caja</h4>
 Se solicita un proyecto llamado Caja con una clase llamada Caja con las siguientes caracteristicas:
 
 - Debe tener 3 atributos de tipo entero (ancho, alto y profundo)

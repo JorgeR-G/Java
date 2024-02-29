@@ -1,4 +1,4 @@
-<p align="center">Ejercicio de TiendaDeLibros</p>
+<h1 align="center">Ejercicio de TiendaDeLibros</h1>
 
 Nos pide un almacenamiento de libros de una tienda:
  Nombre
@@ -6,7 +6,7 @@ Nos pide un almacenamiento de libros de una tienda:
   Precio
   Envio Gratuito
 
-<h2 align="center">Ejercicio de AreaPerimetro</h2>
+<h1 align="center">Ejercicio de AreaPerimetro</h1>
  
 Se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:
 
@@ -26,7 +26,7 @@ Las fórmulas para calcular el área y el perímetro de un Rectángulo son:
 
 Perímetro: (alto + ancho) * 2
 
-<h3 align="center">Ejercicio de ElMayorDosNumeros</h3>
+<h1 align="center">Ejercicio de ElMayorDosNumeros</h1>
 
 Solicita al usuario dos valores:
 
@@ -41,7 +41,7 @@ Proporciona el numero2:
 El numero mayor es:
 <numeroMayor>
 
-<h4 align="center">Ejercicio SistemaCalificacion</h4>
+<h1 align="center">Ejercicio SistemaCalificacion</h1>
 
 Crear un sistema de calificaciones, como sigue:
 
@@ -64,7 +64,7 @@ Por ejemplo:
 Proporciona un valor entre 0 y 10:
 A
 
-<h5 align="center">Ejercicio Caja</h5>
+<h1 align="center">Ejercicio Caja</h1>
 
 Se solicita un proyecto llamado Caja con una clase llamada Caja con las siguientes caracteristicas:
 

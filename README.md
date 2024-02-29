@@ -26,8 +26,9 @@ Las fórmulas para calcular el área y el perímetro de un Rectángulo son:
 
 Perímetro: (alto + ancho) * 2
 
+<h3 align="center">Ejercicio de ElMayorDosNumeros</h3>
 
-- Ejercicio de ElMayorDosNumeros solicita al usuario dos valores:
+Solicita al usuario dos valores:
 
 numero1 (int)
 
@@ -40,7 +41,7 @@ Proporciona el numero2:
 El numero mayor es:
 <numeroMayor>
 
-<h3 align="center">Ejercicio SistemaCalificacion</h3>
+<h4 align="center">Ejercicio SistemaCalificacion</h4>
 
 Crear un sistema de calificaciones, como sigue:
 
@@ -63,7 +64,8 @@ Por ejemplo:
 Proporciona un valor entre 0 y 10:
 A
 
-<h4 align="center">Ejercicio Caja</h4>
+<h5 align="center">Ejercicio Caja</h5>
+
 Se solicita un proyecto llamado Caja con una clase llamada Caja con las siguientes caracteristicas:
 
 - Debe tener 3 atributos de tipo entero (ancho, alto y profundo)

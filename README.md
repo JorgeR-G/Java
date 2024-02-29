@@ -75,3 +75,28 @@ vol = ancho x alto x profundo.
 - Crear una clase de prueba para crear un objeto de tipo caja que tenga como valores: ancho=3, alto=2, profundo=6 y que mande a imprimir el volumen de la caja según los valores proporcionados anteriormente
 
 
+<h1 align="center">Herencia</h1>
+
+Se solicita 3 clases distintas llamadas: Persona (Padre) que herede la información a Cliente (Hija) y Empleado (Hija).
+Estasd 3 clases se situan en un mismo paquete "domain".
+
+En la clase Persona debe de tener 4 atributos el constructor y los métodos getter y setter incluido el método toString:
+- Nombre tipo String.
+- Genero tipo char.
+- Edad tipo int.
+- Direccion tipo String.
+
+En la clase Empleado debe de tener 3 atributos el constructor y los métodos getter y setter incluido el método toString:
+- IdEmpleado tipo int.
+- Sueldo tipo int.
+- contadorEmpleado tipo int.
+
+En la clase Empleado debe de tener 4 atributos el constructor y los métodos getter y setter incluido el método toString:
+- IdCliente tipo int.
+- fechaRegistro tipo Date.
+- vip tipo boolean.
+- ContadorCliente tipo int
+  
+En otro paquete "test" se situa la clase testHerencia, donde se ubica  información para que corra en la consola.
+
+

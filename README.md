@@ -1,4 +1,4 @@
-<h1 align="center">Ejercicio de TiendaDeLibros</h1>
+<title align="center">Ejercicio de TiendaDeLibros</title>
 
 Nos pide un almacenamiento de libros de una tienda:
  Nombre
@@ -6,7 +6,7 @@ Nos pide un almacenamiento de libros de una tienda:
   Precio
   Envio Gratuito
 
-<h2 align="center">Ejercicio de AreaPerimetro</h2>
+<title align="center">Ejercicio de AreaPerimetro</title>
  
 Se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:
 

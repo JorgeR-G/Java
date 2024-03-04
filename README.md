@@ -100,7 +100,7 @@ En la clase Empleado debe de tener 4 atributos el constructor y los métodos get
 En otro paquete "test" se situa la clase testHerencia, donde se ubica  información para que corra en la consola.
 
 <h1 align="center">Ejercicio de Ventas</h1>
-<h2 align="center">UML para la creacion</h2>
+<h2 align="right">UML para la creacion</h2>
 
 ![UML](https://github.com/JorgeR-G/Java/assets/82441130/e9450c5c-302e-406b-bab1-78bdb8cf36b9)
 

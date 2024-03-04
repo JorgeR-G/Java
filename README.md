@@ -1,4 +1,4 @@
-<h1 align="center">Ejercicio de TiendaDeLibros</h1>
+<h1 align="center">Ejercicio de "TiendaDeLibros"</h1>
 
 Nos pide un almacenamiento de libros de una tienda:
  Nombre
@@ -6,7 +6,7 @@ Nos pide un almacenamiento de libros de una tienda:
   Precio
   Envio Gratuito
 
-<h1 align="center">Ejercicio de AreaPerimetro</h1>
+<h1 align="center">Ejercicio de "AreaPerimetro"</h1>
  
 Se solicita calcular el área y el perímetro de un Rectángulo, para ello deberemos crear las siguientes variables:
 
@@ -26,7 +26,7 @@ Las fórmulas para calcular el área y el perímetro de un Rectángulo son:
 
 Perímetro: (alto + ancho) * 2
 
-<h1 align="center">Ejercicio de ElMayorDosNumeros</h1>
+<h1 align="center">Ejercicio de "ElMayorDosNumeros"</h1>
 
 Solicita al usuario dos valores:
 
@@ -41,7 +41,7 @@ Proporciona el numero2:
 El numero mayor es:
 <numeroMayor>
 
-<h1 align="center">Ejercicio SistemaCalificacion</h1>
+<h1 align="center">Ejercicio "SistemaCalificacion"</h1>
 
 Crear un sistema de calificaciones, como sigue:
 
@@ -64,7 +64,7 @@ Por ejemplo:
 Proporciona un valor entre 0 y 10:
 A
 
-<h1 align="center">Ejercicio Caja</h1>
+<h1 align="center">Ejercicio "Caja"</h1>
 
 Se solicita un proyecto llamado Caja con una clase llamada Caja con las siguientes caracteristicas:
 
@@ -99,7 +99,7 @@ En la clase Empleado debe de tener 4 atributos el constructor y los métodos get
   
 En otro paquete "test" se situa la clase testHerencia, donde se ubica  información para que corra en la consola.
 
-<h1 align="center">Ejercicio de Ventas</h1>
+<h1 align="center">Ejercicio de "Ventas"</h1>
 <h2 align="left">UML para la creacion</h2>
 
 ![UML](https://github.com/JorgeR-G/Java/assets/82441130/e9450c5c-302e-406b-bab1-78bdb8cf36b9)

@@ -101,7 +101,7 @@ En otro paquete "test" se situa la clase testHerencia, donde se ubica  informaci
 
 <h1 align="center">Ejercicio de Ventas</h1>
 
-<p>Dejo por aqui el diagrama UML del ejercicio.<p>
+<p>Dejo por aqui el diagrama UML del ejercicio.</p>
 ![UML](https://github.com/JorgeR-G/Java/assets/82441130/e9450c5c-302e-406b-bab1-78bdb8cf36b9)
 
 

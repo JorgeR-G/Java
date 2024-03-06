@@ -104,5 +104,11 @@ En otro paquete "test" se situa la clase testHerencia, donde se ubica  informaci
 
 ![UML](https://github.com/JorgeR-G/Java/assets/82441130/e9450c5c-302e-406b-bab1-78bdb8cf36b9)
 
+<h1 align="center">Ejercicio de "MundoPC"</h1>
+<h2 align="left">UML para la creacion</h2>
+
+![Sin título](https://github.com/JorgeR-G/Java/assets/82441130/d0206323-86f8-45a6-a210-573d8909ffc6)
+
+
 
 
